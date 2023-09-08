@@ -1,5 +1,5 @@
 # Session 00: 08/31
-## Assignment:
+## Instructions:
 * filename: **00_standards.md**
 * Imagine that you can create any Computer Science class you want. What would it be? For this assignment:
   * Provide a high level description of the course.
@@ -7,7 +7,7 @@
   * Explain the motivation behind wanting to create the course.
   * List the NY State standards you believe you would cover in this course. [standards link]
 
-
+## Assignment:
 If I could create any Computer Science class I wanted, I would create an introduction to Computer Science in Python using Turtle. It would pass through all of the topics that an AP CS Principles course would pass through, except that there would be the benefit of students getting a visual respresentation of their code. There is also the ability to ask students to write code that creates a design rather than completes a specific task. 
 
 The grade level for this course would likely be 9th and 10th graders, although it could certainly be slowed down (and cover less material) for 7th and 8th graders. It would take the common route:
