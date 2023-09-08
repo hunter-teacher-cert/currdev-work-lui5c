@@ -1,4 +1,4 @@
 # Assignments For Curriculum Development
-#### Name: 
+#### Name: Luis Collado
 #### Email: 
 #### CUNY ID: 
