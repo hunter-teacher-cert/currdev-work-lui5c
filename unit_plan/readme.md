@@ -7,6 +7,27 @@ by Luis Collado
 (include here description of unit, what class(es) it fits into, when...)
 In my theoretical class of Intro to Programming with Python with Turtle, we'll have a unit called lists and loops. We'll start with lists, then learn `while`, and then learn `for`. 
 
+**Class 1** - Conditionals Review & Intro to while loops
+
+**Class 2** - While loops lab
+
+**Class 3** - While loops quiz, Intro to for loops
+
+**Class 4** - For loops lab
+
+**Class 5** - For loops quiz, intro to lists
+
+**Class 6** - while loops and lists lab
+
+**Class 7** - for loops and lists lab
+
+**Class 8** - lists quiz, begin final lab
+
+**Class 9** - final lab
+
+**Class 10** - lists + loops test
+
+
 ---
 
 ## Motivation for Unit
