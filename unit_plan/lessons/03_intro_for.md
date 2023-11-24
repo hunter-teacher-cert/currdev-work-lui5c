@@ -1,4 +1,6 @@
-## Assignment 2 - For loops
+# Class 03 - intro to definite loops
+
+## Assignment - For loops homework
 ### Description
 The purpose of this assignment is for you to further practice the for loops that we practiced in class today.   
 For each exercise, write your code under the appropriate comment.  
@@ -48,16 +50,16 @@ print("\nExercise 4")
 
 
 # Exercise 5
-# Change the 0 on line A so that this program to count from 0 to 99. 
+# Change only line A so that this program counts from 0 to 99. 
 print("\nExercise 5")
 
 for i in range(10):
     for j in range(10):
-        print(0, end='') ### line A
+        print(0, end=' ') ### line A
 
 
 # Exercise 6
-# Write a program that asks the user for an integer and then uses a for loop to the first 5 multiples of that integer.
+# Write a program that asks the user for an integer and then uses a for loop to print the first 5 multiples of that integer.
 print("\nExercise 6")
 
 
