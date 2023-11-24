@@ -1,5 +1,18 @@
 # Class 06 - intro to lists
 
+### Learning Objective[s]
+
+### Standards
+
+### Materials & Resources
+
+## Handouts
+
+## In-Class Exercises
+
+## Assignments
+
+
 ## Assignment 1 - Lists Practice Homework
 ### Description
 The purpose of this homework assignment is to practice working with lists, which were first introduced on Monday. Write up your responses on a loose leaf sheet of paper. 
