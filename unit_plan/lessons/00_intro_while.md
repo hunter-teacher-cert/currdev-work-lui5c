@@ -178,6 +178,12 @@ Hint: You will need 3 while loops for this.
 ```
 ## In-Class Exercises
 
-
+The 6 exercises listed above are the in-class activity for the day. 
 
 ## Assignments
+On Google Classroom: 
+
+Problems 5.1.1, 5.1.2, and 5.1.3 from:
+ https://runestone.academy/ns/books/published/CS1-Python-Subgoals/while_counter.html?mode=browsing
+
+Write a 1 sentence explaining each answer as a private comment on the Google Classroom assignment. 

@@ -7,30 +7,6 @@ by Luis Collado
 *(include here description of unit, what class(es) it fits into, when...)*  
 In my theoretical class of Intro to Programming with Python with Turtle, we'll have a unit called lists and loops. We'll start with `while`, then learn `for`, and then learn lists. 
 
-**Class 0** - Conditionals Review & Intro to while loops
-
-**Class 1** - While loops lab 1
-
-**Class 2** - While loops lab 2
-
-**Class 3** - While loops quiz, Intro to for loops
-
-**Class 4** - For loops lab 1
-
-**Class 5** - For loops lab 2
-
-**Class 6** - for loops quiz, intro to lists
-
-**Class 7** - while loops and lists lab
-
-**Class 8** - for loops and lists lab
-
-**Class 9** - lists quiz, final lab
-
-**Class 10** - final lab + review time
-
-**Class 11** - lists + loops test
-
 
 ---
 
@@ -66,6 +42,31 @@ List The NY State Computer Science standards you will be covering in this unit. 
 Total length: 2 Weeks
 
 (list each lesson with main topic(s))
+
+
+**Class 0** - Conditionals Review & Intro to while loops
+
+**Class 1** - While loops lab 1
+
+**Class 2** - While loops lab 2
+
+**Class 3** - While loops quiz, Intro to for loops
+
+**Class 4** - For loops lab 1
+
+**Class 5** - For loops lab 2
+
+**Class 6** - for loops quiz, intro to lists
+
+**Class 7** - while loops and lists lab
+
+**Class 8** - for loops and lists lab
+
+**Class 9** - lists quiz, final lab
+
+**Class 10** - final lab + review time
+
+**Class 11** - lists + loops test
 
 
 ---

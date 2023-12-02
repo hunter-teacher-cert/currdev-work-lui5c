@@ -53,6 +53,10 @@ have the program ask their name.
 
 ## In-Class Exercises
 
-
+The above file is the in-class activity and extension work for the day. 
 
 ## Assignments
+
+5.2.1, 5.2.2, 5.2.3, 5.2.4, and 5.2.5 from https://runestone.academy/ns/books/published/CS1-Python-Subgoals/loops-whc-p1.html?mode=browsing
+
+Write 1 sentence for each question as a private comment on the Google Classroom assignment. 
