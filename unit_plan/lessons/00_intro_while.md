@@ -178,7 +178,7 @@ Hint: You will need 3 while loops for this.
 ```
 ## In-Class Exercises
 
-The 6 exercises listed above are the in-class activity for the day. 
+The 6 exercises listed above are the in-class activity for the day. Before any coding is done, while loops are demonstrated on the board. 
 
 ## Assignments
 On Google Classroom: 
