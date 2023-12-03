@@ -6,17 +6,8 @@
 
 ### Materials & Resources
 
-## Handouts
+These are the questions that will be posted on Google Classroom for students to work on independently: 
 
-## In-Class Exercises
-
-## Assignments
-
-
-## Assignment 1 - Lists Practice Homework
-### Description
-The purpose of this homework assignment is to practice working with lists, which were first introduced on Monday. Write up your responses on a loose leaf sheet of paper. 
-### Assignment
 1. Write a line of python that creates a variable a and sets it equal to a list holding the first 5 numbers of the school’s phone number. 
 2. Write a line of Python that creates a variable b and sets it equal to a list with one integer, one string, and one float.
 3. In one sentence, explain why program A prints “Boop!”
@@ -49,6 +40,7 @@ print(my_list[0]) # **** line C ****
 
 
 8. For each line of program C, write what would happen if you entered it into Python’s REPL.
+
 **Program C**
 ```python
 a = [1, 2, 3]
@@ -65,5 +57,13 @@ a
 a.remove(3)
 a
 ```
+
+## Handouts
+
+## In-Class Exercises
+
+## Assignments
+Exercises 5.9.1, 5.9.2, and 5.9.3 from 
+https://runestone.academy/ns/books/published/CS1-Python-Subgoals/for_loops_lists.html?mode=browsing
 
 

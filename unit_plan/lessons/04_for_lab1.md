@@ -132,6 +132,8 @@ ____
 ___
 etc.
 Hint: You will need 1 while loop and 2 for loops for this.
+
+3. Write another version of your lab #1 with while loops to only give the user 6 tries to guess the number. Keep track of the user's win/loss percentage, instead of a high score. 
 """
 
 # write your optional challenge programs below. 
