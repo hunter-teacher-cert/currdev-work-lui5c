@@ -1,15 +1,6 @@
-# Class 04 - definite loops practice i
-
-### Learning Objective[s]
-
-### Standards
-
-### Materials & Resources
-
-```
+"""
 For this lab, you'll be implementing all of the exercises that we did for while loops, except using for loops. 
 
-"""
 Definite Loops
 
 Definite loops run a specific amount of times.
@@ -21,7 +12,9 @@ Write a for loop that prints the numbers 0-4, inclusive.
 # # Uncomment these lines by highlighting all of them and pressing Ctrl + /
 
 # print("Exercise 1:")
-
+for i in range(5):
+  print(i, end=" ")
+print()
 """
 Exercise 2:
 
@@ -30,7 +23,10 @@ Write a while loop that prints out the numbers 0-10, inclusive.
 
 # put exercise 2 here. 
 
-# print("Exercise 2:")
+print("Exercise 2:")
+for i in range(11):
+  print(i, end=" ")
+print()
 
 
 """
@@ -46,7 +42,9 @@ aaaaaa
 """
 # write exercise 3 here.
 
-# print("Exercise 3:")
+print("Exercise 3:")
+for i in range(1, 7):
+  print("a"*i)
 
 """
 Exercise 4:
@@ -55,8 +53,10 @@ Write a for loop that prints every even number from 0 to 100.
 """
 
 # write exercise 4 here.
-
-# print("Exercise 4:")
+print("Exercise 4:")
+for i in range(0, 101, 2):
+  print(i, end=" ")
+print()
 
 """
 Exercise 5:
@@ -65,8 +65,10 @@ Write a for loop that prints the first 20 powers of 2.
 """
 
 # write exercise 5 here. 
-
-# print("Exercise 5:")
+print("Exercise 5:")
+for i in range(20):
+  print(2**i, end=" ")
+print()
 
 """
 Exercise 6:
@@ -74,10 +76,11 @@ Write a short program that takes a number from the user, and counts down from th
 """
 
 # write exercise 6 here. 
+print("Exercise 6:")
+number = int(input("What number are we counting down from?"))
+for i in range(number, -1, -1):
+  print(i)
 
-# print("Exercise 6:")
-
-# number = int(input("What number are we counting down from?"))
 
 
 """
@@ -94,13 +97,19 @@ if number % factor == 0:
 
 Your program should:
 1. Ask the user for a number.
-3. Have a for loop that uses factor and number in the conditional
+2. Create a variable called factor
+3. Have a while loop that uses factor and number in the conditional
 4. Have an if statement in the for loop
 5. Have a print statement in the if block
 """
 
 # write your independent practice program below. 
-
+num = int(input("type a number: "))
+print("the factors of", num, "are: ")
+for i in range(1, num+1):
+  if num % i == 0:
+    print(i, end=" ")
+print()
 
 
 """
@@ -131,12 +140,27 @@ Hint: You will need 1 while loop and 2 for loops for this.
 """
 
 # write your optional challenge programs below. 
-```
 
-## Handouts
+# Exercise 1:
 
-## In-Class Exercises
+a = int(input("which term should I stop at?"))
+nminus1 = 1
+n = 1
+temp = 0
+if a == 1 or a == 2: print(nminus1)
+else:
+  for i in range(a-1):
+    temp = n
+    n = n + nminus1
+    nminus1 = temp
+    print(n)
 
-## Assignments
-5.4.1 Exercises 1-5 from 
-https://runestone.academy/ns/books/published/CS1-Python-Subgoals/loops-flr-p1.html?mode=browsing
+
+# Exercise 2:
+for i in range(3):
+  for i in range(6):
+    print("-"*i)
+  for i in range(6):
+    print("-"*(6-i))
+
+# Exercise 3: verified upon turning in.
