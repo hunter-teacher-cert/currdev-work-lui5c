@@ -115,7 +115,7 @@ Write a while loop that prints the first 20 powers of 2.
 
 """
 Exercise 6:
-Write a short program that takes a number from the user
+Write a short program that takes a number from the user, and counts down from that number. 
 """
 
 # write exercise 6 here. 

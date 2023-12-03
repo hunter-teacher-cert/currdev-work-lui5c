@@ -6,37 +6,17 @@
 
 ### Materials & Resources
 
-## Handouts
+The following source code file:
 
-## In-Class Exercises
-
-## Assignments
-
-
-## Assignment - For loops homework
-### Description
-The purpose of this assignment is for you to further practice the for loops that we practiced in class today.   
-For each exercise, write your code under the appropriate comment.  
-For each exercise, pass `end=' '` to your `print` statements, like this:  
 ```python
+"""
+Assignment 2 Starter Code
+For each exercise, pass `end=' '` to your `print` statements, like this:
+
 print("hello", end="")
-```
-This makes your output easier to inspect.
-### Assignment
-1. Write a for loop that prints each number from 1 to 10. 
-2. Write a for loop that prints each number from 1 to 100.
-3. Write a for loop that prints each odd number from 1 to 99. 
-4. Write a for loop that prints the first 10 perfect squares (1, 4, 9, 16, etc. -- perfect squares have square roots that are whole numbers.)
-5. Change the 0 on line A so that this program to count from 0 to 99. 
-```python
-for i in range(10):
-    for j in range(10):
-        print(0, end='') ### line A
-```
-6. Write a program that asks the user for an integer and then uses a for loop to the first 5 multiples of that integer.
 
-```python
-# Assignment 2 Starter Code
+This makes your output easier to inspect.
+"""
 
 # Exercise 1
 # Write a for loop that prints each number from 1 to 10. 
@@ -76,4 +56,31 @@ for i in range(10):
 print("\nExercise 6")
 
 
+
+# Extension Exercises
+# 1. Write a program that sums up all of the 
+#    numbers from 1 to a given number, using
+#    a for loop. 
+# 
+# 2. Write a program that uses a for loop to 
+#    determine how many digits are in an integer. 
+#
+# 3. Write a program that uses for loops 
+#    or while loops to determine if a 
+#    number is prime. 
+# 
+# print("Extension Exercises:")
+
 ```
+
+## Handouts
+
+## In-Class Exercises
+
+The in-class exercises are contained in the source file that the students receive. 
+
+
+## Assignments
+
+Problems 5.3.1, 5.3.2, 5.3.3 from 
+https://runestone.academy/ns/books/published/CS1-Python-Subgoals/for_loop_range.html?mode=browsing

@@ -35,6 +35,8 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ## Resources
 (include any links/books/readings to be used during this unit)
 
+- [Turtle Cheat Sheet](https://www.cse.msu.edu/~ldillon/cse-ctl/Spring2015/Meeting07/turtleCheatSheet.pdf)
+
 
 ---
 
