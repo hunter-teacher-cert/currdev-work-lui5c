@@ -6,7 +6,9 @@
 
 ### Materials & Resources
 
-These are the questions that will be posted on Google Classroom for students to work on independently: 
+These are the questions that will be posted on Google Classroom for students to work on independently, in their own file titled `lists.py`.
+
+0. Using the resources [here](https://www.w3schools.com/python/python_ref_list.asp), demonstrate your understanding of each list method by implementing each method once with a sample list. 
 
 1. Write a line of python that creates a variable a and sets it equal to a list holding the first 5 numbers of the school’s phone number. 
 2. Write a line of Python that creates a variable b and sets it equal to a list with one integer, one string, and one float.
@@ -57,6 +59,8 @@ a
 a.remove(3)
 a
 ```
+
+9. Extension: write a program that creates a grocery list for a user. The program should use a while loop to add items to the grocery list until the user types `done`, and then the list should be printed for the user. 
 
 ## Handouts
 
