@@ -10,22 +10,17 @@
 For this lab, you'll be implementing all of the exercises that we did for while loops, except using for loops. 
 
 """
-Indefinite Loops
+Definite Loops
 
-Indefinite Loops are like if statements, except that the conditional at the top is RE-RUN AT THE END OF THE BLOCK.
+Definite loops run a specific amount of times.
 
 Exercise 1:
-Below is an infinitely running while loop. 
-Fix it to print the numbers 0-4, inclusive. 
+Write a for loop that prints the numbers 0-4, inclusive. 
 """
 
 # # Uncomment these lines by highlighting all of them and pressing Ctrl + /
 
 # print("Exercise 1:")
-# count = 0 
-
-# while count == 0:
-#   print(count)
 
 """
 Exercise 2:
@@ -41,7 +36,7 @@ Write a while loop that prints out the numbers 0-10, inclusive.
 """
 Exercise 3:
 
-Write a while loop that prints the following output:
+Write a for loop that prints the following output:
 a
 aa
 aaa
@@ -56,7 +51,7 @@ aaaaaa
 """
 Exercise 4:
 
-Write a while loop that prints every even number from 0 to 100. 
+Write a for loop that prints every even number from 0 to 100. 
 """
 
 # write exercise 4 here.
@@ -65,7 +60,7 @@ Write a while loop that prints every even number from 0 to 100.
 
 """
 Exercise 5:
-Write a while loop that prints the first 20 powers of 2.
+Write a for loop that prints the first 20 powers of 2.
 (1, 2, 4, 8, 16, 32, 64, 128, etc...)
 """
 
