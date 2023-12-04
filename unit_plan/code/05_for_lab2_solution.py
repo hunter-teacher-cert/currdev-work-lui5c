@@ -125,4 +125,72 @@ for i in range(9):
 
 
 
+# Extension code:
+
+
+## 5-pointed star code
+for i in range(5):
+  t.forward(40)
+  t.backward(40)
+  t.right(360/5)
+
+
+
+t.penup()
+t.goto(-100, 50)
+t.pendown()
+t.setheading(0)
+
+
+# 5 pointed star with triangle ends
+for i in range(5):
+  t.forward(40)
+  for i in range(3):
+    t.forward(10)
+    t.right(120)
+  t.backward(40)
+  t.right(360/5)
+
+
+t.penup()
+t.goto(0, 50)
+t.pendown()
+t.setheading(0)
+
+
+# 5 pointed star with forked ends ends
+for i in range(5):
+  t.forward(40)
+  t.left(30)
+  for j in range(3):
+    t.forward(10)
+    t.right(120)
+  t.right(30)
+  t.backward(40)
+  t.right(360/5)
+
+
+t.penup()
+t.goto(100, 50)
+t.pendown()
+t.setheading(0)
+
+
+
+
+# 5-pointed star made of square sticks
+lines = 5
+squares = 6
+
+for i in range(lines):
+  for i in range(squares):
+    for i in range(4):
+      t.forward(10)
+      t.right(90)
+    t.forward(10)
+  t.backward(10*squares)
+  t.left(360/lines)
+
+
+
 input()
