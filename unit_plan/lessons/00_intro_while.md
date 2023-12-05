@@ -11,8 +11,6 @@
 
 * **9-12.CT.8** - Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
 
-* **9-12.CT.9** - Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
-
 * **9-12.CT.10** - Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.
 
 ### Materials & Resources
@@ -194,4 +192,4 @@ On Google Classroom:
 Problems 5.1.1, 5.1.2, and 5.1.3 from:
  https://runestone.academy/ns/books/published/CS1-Python-Subgoals/while_counter.html?mode=browsing
 
-Write a 1 sentence explaining each answer as a private comment on the Google Classroom assignment. 
+Write 1 sentence explaining your answer as a private comment on google classroom. 

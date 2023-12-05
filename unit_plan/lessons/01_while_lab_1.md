@@ -2,7 +2,9 @@
 
 ### Learning Objective[s]
 
-* Students
+* Students will be able to use their knowledge of conditionals to support their practice with while loops. 
+
+* Students will be able to make a playable number guessing game in Python. 
 
 
 ### Standards
@@ -69,4 +71,4 @@ The above file is the in-class activity and extension work for the day.
 
 5.2.1, 5.2.2, 5.2.3, 5.2.4, and 5.2.5 from https://runestone.academy/ns/books/published/CS1-Python-Subgoals/loops-whc-p1.html?mode=browsing
 
-Write 1 sentence for each question as a private comment on the Google Classroom assignment. 
+Write 1 sentence for each multiple choice question as a private comment on the Google Classroom assignment. 
