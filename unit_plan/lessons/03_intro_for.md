@@ -1,16 +1,20 @@
 # Class 03 - intro to definite loops
 
-### Learning Objective[s]
+### Learning Objectives
+
+* Students will be able to write a for loop independently in Python.
+
+* Students will be able to use the loop variable correctly in for loops.
+
+* Students will be able to connect their work with for loops to their understanding of while loops. 
+
+* Students will be able to identify the parts of a for loop that distinguish it from a while loop. 
 
 ### Standards
 
 * **9-12.CT.4** - Implement a program using a combination of student-defined and third-party functions to organize the computation.
 
 * **9-12.CT.8** - Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
-
-* **9-12.CT.9** - Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
-
-* **9-12.CT.10** - Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.
 
 
 ### Materials & Resources
@@ -19,7 +23,7 @@ The following source code file:
 
 ```python
 """
-Assignment 2 Starter Code
+Class 3 Starter Code
 For each exercise, pass `end=' '` to your `print` statements, like this:
 
 print("hello", end="")
@@ -92,3 +96,5 @@ The in-class exercises are contained in the source file that the students receiv
 
 Problems 5.3.1, 5.3.2, 5.3.3 from 
 https://runestone.academy/ns/books/published/CS1-Python-Subgoals/for_loop_range.html?mode=browsing
+
+Write your answer to the problem as a private comment on Google Classroom. 

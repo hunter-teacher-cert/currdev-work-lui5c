@@ -1,16 +1,16 @@
 # Class 02 - indefinite practice ii
 
-### Learning Objective[s]
+### Learning Objectives
+
+* Students will be able to apply their knowledge of while loops to create designs that meet specific criteria in Python with Turtle.
+
+* Students will be able to work with starter-code constraints to construct their own program.
 
 ### Standards
 
 * **9-12.CT.4** - Implement a program using a combination of student-defined and third-party functions to organize the computation.
 
 * **9-12.CT.8** - Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
-
-* **9-12.CT.9** - Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
-
-* **9-12.CT.10** - Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.
 
 
 ### Materials & Resources
@@ -143,7 +143,11 @@ input()
 The class is a lab, so students will use the above starter file and spend the class doing that activity. 
 
 The extension assignment is to create the odd-vertices star code. 
+Extension beyond that is the extension of the number-guessing game from lab 1 - adding a high score.
 
 ## Assignments
 
-The homework is to finish any late homework for 10% off and to finish any remaining work on the labs. 
+The homework is to:
+* finish any late homework for 10% off 
+* finish any remaining work on either of the 2 the labs
+* study for the while loops quiz next class
