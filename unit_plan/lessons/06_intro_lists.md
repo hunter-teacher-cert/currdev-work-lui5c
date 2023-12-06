@@ -2,6 +2,11 @@
 
 ### Learning Objective[s]
 
+* Students will be able to use lists to store collections of data in Python.  
+* Students will be able to use the documentation/reference sheet for lists to write their own practice exercises for lists.   
+* Students will be able to differentiate between the list methods that return a value and the list methods that 
+only mutate a list. 
+
 ### Standards
 
 * **9-12.CT.4** - Implement a program using a combination of student-defined and third-party functions to organize the computation.
@@ -76,7 +81,5 @@ a
 ## In-Class Exercises
 
 ## Assignments
-Exercises 5.9.1, 5.9.2, and 5.9.3 from 
-https://runestone.academy/ns/books/published/CS1-Python-Subgoals/for_loops_lists.html?mode=browsing
 
-
+No homework :)
