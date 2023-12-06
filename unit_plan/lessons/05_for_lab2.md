@@ -1,14 +1,15 @@
 # Class 04 - definite loops practice 2
 
-### Learning Objective[s]
+### Learning Objectives
+
+* Students will be able to apply their knowledge of for loops to Python with Turtle scenarios.  
+* Students will be able to independently troubleshoot and debug their Python with Turtle code. 
 
 ### Standards
 
 * **9-12.CT.4** - Implement a program using a combination of student-defined and third-party functions to organize the computation.
 
 * **9-12.CT.8** - Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
-
-* **9-12.CT.9** - Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
 
 * **9-12.CT.10** - Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.
 
@@ -141,3 +142,8 @@ input()
 ## In-Class Exercises
 
 ## Assignments
+
+The homework is to:
+* finish any late homework for 10% off 
+* finish any remaining work on either of the 2 the labs
+* study for the for loops quiz next class

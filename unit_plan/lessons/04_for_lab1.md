@@ -1,6 +1,10 @@
 # Class 04 - definite loops practice i
 
-### Learning Objective[s]
+### Learning Objectives
+
+* Students will be able to write for loops independently.  
+* Students will be able to use their knowledge of while loops to support their learning of for loops.   
+* Students will be able to independently extend their knowledge of for loops to familiar contexts. 
 
 ### Standards
 
@@ -9,8 +13,6 @@
 * **9-12.CT.8** - Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
 
 * **9-12.CT.9** - Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
-
-* **9-12.CT.10** - Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.
 
 
 ### Materials & Resources
@@ -149,3 +151,5 @@ Hint: You will need 1 while loop and 2 for loops for this.
 ## Assignments
 5.4.1 Exercises 1-5 from 
 https://runestone.academy/ns/books/published/CS1-Python-Subgoals/loops-flr-p1.html?mode=browsing
+
+Write each answer as a private comment on Google Classroom. 
