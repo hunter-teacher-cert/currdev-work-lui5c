@@ -184,6 +184,37 @@ Hint: You will need 3 while loops for this.
 ```
 ## In-Class Exercises
 
+The following demo code will be used:
+```python
+
+a = 0
+if a < 1:
+  print("a is less than 1!")
+
+while a < 1:
+  print("a is less than 1")
+
+
+while a < 1:
+  print(a)
+
+
+while a < 1:
+  print(a)
+  a = a + 1 # a += 1
+
+a = 10
+
+while a < 1:
+  print("a is less than 1")
+
+
+while a > 0:
+  print("a is more than 10")  
+  a = a - 1
+
+```
+
 The 6 exercises listed above are the in-class activity for the day. Before any coding is done, while loops are demonstrated on the board. 
 
 ## Assignments
