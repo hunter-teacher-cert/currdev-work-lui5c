@@ -138,6 +138,8 @@ input()
 
 ## Handouts
 
+Do now: think of a question about while loops that hasn't been answered yet.
+
 ## In-Class Exercises
 
 The class is a lab, so students will use the above starter file and spend the class doing that activity. 

@@ -66,6 +66,8 @@ topping_price = [1, 1, 2, 2]
 
 ## In-Class Exercises
 
+Do Now: what type of program do you think would use a for loop with a list?
+
 Lab included above.
 
 ## Assignments

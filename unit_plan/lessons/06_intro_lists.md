@@ -80,6 +80,8 @@ a
 
 ## In-Class Exercises
 
+Do Now: There are lists in python. What do you think they do?
+
 The following demo code will be run: 
 
 ```python

@@ -141,6 +141,10 @@ input()
 
 ## In-Class Exercises
 
+Do Now: how do for loops make geometry in Turtle easier?
+
+The lab file contains all of the exercises. 
+
 ## Assignments
 
 The homework is to:

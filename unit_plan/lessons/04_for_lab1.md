@@ -148,6 +148,10 @@ Hint: You will need 1 while loop and 2 for loops for this.
 
 ## In-Class Exercises
 
+Do Now: think of how you could have implemented the first while lab using for loops. 
+
+The file contains all of the necessary exercises. 
+
 ## Assignments
 5.4.1 Exercises 1-5 from 
 https://runestone.academy/ns/books/published/CS1-Python-Subgoals/loops-flr-p1.html?mode=browsing

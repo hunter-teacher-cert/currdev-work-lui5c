@@ -65,6 +65,8 @@ have the program ask their name.
 
 ## In-Class Exercises
 
+Do Now: think of how you could implement a password login using while loops in python.
+
 The above file is the in-class activity and extension work for the day. 
 
 ## Assignments

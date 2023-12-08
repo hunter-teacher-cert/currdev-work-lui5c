@@ -32,6 +32,8 @@
 
 ## In-Class Exercises
 
+Do Now: What program in Python do you think would use a list and a while loop?
+
 The in-class exercise is the file described in the Materials section of the lesson.
 
 ## Assignments

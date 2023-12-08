@@ -184,6 +184,8 @@ Hint: You will need 3 while loops for this.
 ```
 ## In-Class Exercises
 
+Do Now: write a conditional the prints your name if you're old enough to drive. 
+
 The following demo code will be used:
 ```python
 

@@ -89,6 +89,8 @@ print("\nExercise 6")
 
 ## In-Class Exercises
 
+Do Now: think: what does the word "for" mean to you?
+
 The following demos will be done:
 ```python
 
