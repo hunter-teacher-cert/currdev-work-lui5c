@@ -21,14 +21,50 @@
 ```python
 # Lists + For lab
 """
-Task 1: Ice Cream Combinations
+Ice Cream Combinations
+The person using your program runs a frozen yogurt shop. They would like to make a banner sharing how many combinations of frozen yogurt, mix-ins, and toppings are available. They hire you to write a program to find out all of the available combinations. Combinations look like this:
 
+Vanilla
+Chocolate with blueberries and chocolate sprinkles
+Strawberry with boba
 """
+
+# Task 1: Create 4 empty lists:
+# flavors, mixins, toppings, and all_combinations
+
+
+# Task 2: using .append(), populate your first 3 lists.
+# Flavors: vanilla, chocolate, strawberry, butter pecan, and mango
+# Mix-ins: blueberries, boba, strawberries, granola, oreo
+# Toppings: rainbow sprinkles, chocolate sprinkles, caramel syrup, chocolate syrup
+
+
+# Task 3: Use a for loop to add each flavor to the all_combinations list. 
+
+
+
+# Task 4: Use two different for loops to add all combinations of 1 flavor and 1 mixin to the all_combinations list. 
+
+
+# Task 5: Use three different for loops to add all combinations of 1 of each ingredient to the all_combinations list. 
+
+
+# Task 6: Go back and make sure that the combinations in your list look good when printed. 
+
+# Extension task 1: use list.indexOf(element) and the following pricing lists to add a price to each combination:
+flavor_price = [2, 1.8, 2.2, 3, 1.5]
+mixin_price = [2, 1, 2, 2, 1]
+topping_price = [1, 1, 2, 2]
+
+# Extension task 2: Expand your program to work with user input - use while loops to accomplish the user input. Do not worry about prices with this extension.
+
 ```
 
 ## Handouts
 
 ## In-Class Exercises
+
+Lab included above.
 
 ## Assignments
 Exercises from Runestone, with answers posted as private comments in Google Classroom
