@@ -81,5 +81,6 @@ a
 ## In-Class Exercises
 
 ## Assignments
+Homework from Runestone, with answers attached to Google Classroom as a screenshot:
 
-No homework :)
+https://runestone.academy/ns/books/published/CS1-Python-Subgoals/loops-cc-p1.html?mode=browsing

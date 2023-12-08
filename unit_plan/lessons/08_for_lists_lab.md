@@ -2,6 +2,9 @@
 
 ### Learning Objective[s]
 
+* Students will be able to write programs that use for loops and lists together.   
+* Students will be able to write programs with significant code inside of a for loop.
+
 ### Standards
 
 * **9-12.CT.4** - Implement a program using a combination of student-defined and third-party functions to organize the computation.
@@ -16,15 +19,11 @@
 ### Materials & Resources
 
 ```python
-# Lists + While lab
+# Lists + For lab
+"""
+Task 1: Ice Cream Combinations
 
-# Task 1: write a program that asks the user for integers to be put into a list. Convert every number that the user enters into an integer and then append the integers to a list. When the user types "done", stop adding to the list. 
-
-# Task 2: write a while loop that goes through the list that the user generated and prints out the maximum value.
-
-# Task 3: write a while loop that goes through the list that the user generated and prints out the minimum value. 
-
-# Extension task: See if you can use your knowledge of loops and lists to sort the list of integers from smallest to greatest. 
+"""
 ```
 
 ## Handouts
@@ -32,3 +31,6 @@
 ## In-Class Exercises
 
 ## Assignments
+Exercises from Runestone, with answers posted as private comments in Google Classroom
+
+https://runestone.academy/ns/books/published/CS1-Python-Subgoals/for_loops_lists.html?mode=browsing
