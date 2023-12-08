@@ -51,7 +51,9 @@ Strawberry with boba
 
 # Task 6: Go back and make sure that the combinations in your list look good when printed. 
 
-# Extension task 1: use list.indexOf(element) and the following pricing lists to add a price to each combination:
+# Task 7: print all combinations with a comma in between them. Print out how many combinations there are.
+
+# Extension task 1: use list.index(element) and the following pricing lists to add a price to each combination:
 flavor_price = [2, 1.8, 2.2, 3, 1.5]
 mixin_price = [2, 1, 2, 2, 1]
 topping_price = [1, 1, 2, 2]
