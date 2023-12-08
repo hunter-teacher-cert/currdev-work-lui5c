@@ -45,7 +45,9 @@ To start with, the word that is being guessed is "programming".
 
 ## In-Class Exercises
 
-File fond above. 
+Teacher demo with working code to give inspiration for how program will work. 
+
+File found above. 
 
 ## Assignments
 Finish blankman.
