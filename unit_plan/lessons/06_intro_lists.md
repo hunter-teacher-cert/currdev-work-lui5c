@@ -80,6 +80,59 @@ a
 
 ## In-Class Exercises
 
+The following demo code will be run: 
+
+```python
+
+names = []
+names.append("Luis")
+names.append("Diego")
+
+print(names)
+
+print(names[0])
+
+print(names[1])
+
+topname = names.pop()
+print(topname)
+
+topname = names.pop()
+print(topname)
+
+for i in range(10):
+  names.append(str(i)*5)
+
+print(names[0])
+
+
+print(names[-1])
+
+
+print(names[2:4])
+
+
+print(names[0:-1])
+
+
+print(names.index("11111"))
+
+
+names = names + names
+
+print(names)
+
+for n in names:
+  print(n)
+
+
+
+while len(names) > 0:
+  print(names.pop())
+```
+
+The file above contains all of the activities for the in-class exercises. 
+
 ## Assignments
 Homework from Runestone, with answers attached to Google Classroom as a screenshot:
 

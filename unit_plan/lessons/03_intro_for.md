@@ -89,6 +89,41 @@ print("\nExercise 6")
 
 ## In-Class Exercises
 
+The following demos will be done:
+```python
+
+print("while:")
+i = 0
+while i < 5:
+    print(i)
+    i = i + 1
+
+print("for:")
+for i in range(5):
+    print(i)
+
+for i in range(0, 5, 1):
+    print(i)
+
+for i in range(5, 0, -1):
+    print(i)
+
+for i in range(0, 100, 2):
+    print(i)
+
+for i in range(100, 0, -2):
+    print(i)
+
+
+for i in range(3):
+    print(i)
+    for j in range(3):
+        print("hip", end=", ")
+    print("hooray!")
+
+
+```
+
 The in-class exercises are contained in the source file that the students receive. 
 
 
