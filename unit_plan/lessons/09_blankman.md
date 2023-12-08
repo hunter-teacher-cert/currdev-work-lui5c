@@ -45,6 +45,8 @@ To start with, the word that is being guessed is "programming".
 
 ## In-Class Exercises
 
+Do Now: how would you implement blankman (hangman) in Python?
+
 Teacher demo with working code to give inspiration for how program will work. 
 
 File found above. 
