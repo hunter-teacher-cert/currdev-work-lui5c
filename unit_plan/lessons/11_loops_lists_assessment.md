@@ -2,6 +2,8 @@
 
 ### Learning Objective[s]
 
+* There are no explicit learning objectives, other than the sum of all of the learning objectives already stated for this unit.
+
 ### Standards
 
 * **9-12.CT.4** - Implement a program using a combination of student-defined and third-party functions to organize the computation.
