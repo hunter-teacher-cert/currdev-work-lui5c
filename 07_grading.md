@@ -1,5 +1,2 @@
-* Contemplate the various grading systems discussed in class. In a perfect world, where you could design everying about a class (or even a school), what grading system would you choose to evalaute students on. Things to condier:
-  - What types of assignments/activities would you incoerpate into the grade?
-  - How would you evaluate those assignments/activities?
-  - What is it that you want to be measuring in these grades?
-* Put your thoughts together and explain your ideal grading system, including your motivations behind the decisions you’ve made.
+
+If I could design everything about a grading system, everything would be graded according to mastery grading. There would be specific outcomes that would translate into a grade, and show what degree of proficiency you had in every topic related to the curriculum that had been covered. Projects would be assigned like normal, except the skills grade would be condensed into which skills had been mastered vs. proficiency demonstrated. In mastery grading systems, the points that are awarded for each question on a test are not as important, and the same would go for projects or labs. If it has been demonstrated that you are proficient in a certain skill, then you should be marked as proficient. Being at a 65% versus a 68% versus an 82% for proficiency can end up splitting haris about fine print and homework that has been turned in. Effort matters too, but the main thing that matters is that students are learning.

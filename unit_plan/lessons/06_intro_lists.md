@@ -78,6 +78,14 @@ a
 
 ## Handouts
 
+### `for` quiz
+
+1. Write a for loop that starts at 1970 and goes until 2020, inclusive of both years. 
+
+2. Write a for loop that will never run. 
+
+3. Write a for loop that checks all of the possible factors of a number. Remember that `3 % 2 == 1` and `4 % 2 == 0`.
+
 ## In-Class Exercises
 
 Do Now: There are lists in python. What do you think they do?

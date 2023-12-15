@@ -87,6 +87,14 @@ print("\nExercise 6")
 
 ## Handouts
 
+### `while` quiz
+
+1. Write a while loop that counts backwards by ones from 20, starting at 20 and ending at 0. 
+
+2. Write a while loop that will never run. 
+
+3. Write a while loop that will run forever. 
+
 ## In-Class Exercises
 
 Do Now: think: what does the word "for" mean to you?

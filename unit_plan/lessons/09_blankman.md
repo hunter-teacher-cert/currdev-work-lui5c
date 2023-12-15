@@ -43,6 +43,21 @@ To start with, the word that is being guessed is "programming".
 
 ## Handouts
 
+### `lists` quiz
+
+1. In the program below, `mylist` can change, but the rest of the program cannot. Write a program that iterates through the list to find the minimum and maximum of the list. You can use a for loop or a while loop.
+```python
+
+mylist = [3, 8, 5, 3, 5, 78, 3, 7, 4, 2, 4, 6]
+
+# ... type your program here
+
+
+
+
+
+```
+
 ## In-Class Exercises
 
 Do Now: how would you implement blankman (hangman) in Python?

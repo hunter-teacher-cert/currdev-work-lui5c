@@ -31,7 +31,7 @@
 &nbsp;  
 &nbsp;  
 
-2. Give an example of a task that a **for** loop could accomplish, but not a **while** loop. Your answer should **not** be in code. Feel free to use an example from one of the labs we did. 
+2. Give an example of a task that would be simpler to implement using a **for** loop instead of a **while** loop. Your answer should **not** be in code. Feel free to use an example from one of the labs we did. 
 
 &nbsp;  
 &nbsp;  
