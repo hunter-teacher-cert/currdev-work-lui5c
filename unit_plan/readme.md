@@ -38,7 +38,7 @@ In an introductory course, you need to cover control structures and data structu
 
 ## Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
-- Code.org's The Artist
+
 - Replit
 - Pen and paper
 
